@@ -1,4 +1,4 @@
-# Accessibility testing
+# Accessibility testing using pa11y
 
 ##  Test url:  https://bitsofco.de/
 ### Config file
