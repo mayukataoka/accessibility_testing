@@ -17,17 +17,16 @@ nano .pa11yci
 
 ### Test execution
 
-'''
+```
 $ pa11y-ci --threshold 10
 Running Pa11y on 1 URLs:
  > https://bitsofco.de - 0 errors
 
 ✔ 1/1 URLs passed
-'''
+```
 ##  Test url:  https://www.yahoo.com
 
-'''
-$ pa11y-ci --threshold 10
+```
 
 $ pa11y-ci --threshold 10
 Running Pa11y on 1 URLs:
@@ -72,5 +71,4 @@ Errors in http://www.yahoo.com:
    <img
    src="https://s.yimg.com/uu/api/res/1.2/TUrG2k6zIO3IGIfCxxzA5A--~B/Zmk9c3RyaW07aD0zODg7cHlvZmY9MDtxPTk1O3c9NzIwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2019-02/2a805030-27ef-11e9-bd7b-feeaf79...
 
-
-'''
+```
