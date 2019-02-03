@@ -3,7 +3,7 @@
 ##  Test url:  https://bitsofco.de/
 ### Config file
 
-'''
+```
 nano .pa11yci
 
 {
@@ -13,7 +13,7 @@ nano .pa11yci
   },
   "urls": [ "https://bitsofco.de" ]
 }
-'''
+```
 
 ### Test execution
 
