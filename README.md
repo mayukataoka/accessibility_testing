@@ -4,6 +4,8 @@
 ### Config file
 
 '''
+nano .pa11yci
+
 {
   "defaults": {
     "hideElements": "#carbonads",
@@ -14,6 +16,7 @@
 '''
 
 ### Test execution
+
 '''
 $ pa11y-ci --threshold 10
 Running Pa11y on 1 URLs:
