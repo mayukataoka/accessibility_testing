@@ -4,7 +4,7 @@
 ### Config file
 
 ```
-nano .pa11yci
+>nano .pa11yci
 
 {
   "defaults": {
